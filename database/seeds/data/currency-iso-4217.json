@@ -1,0 +1,650 @@
+[
+  {
+    "Code":"AED",
+    "Country":"United Arab Emirates Dirham"
+  },
+  {
+    "Code":"AFN",
+    "Country":"Afghanistan Afghani"
+  },
+  {
+    "Code":"ALL",
+    "Country":"Albania Lek"
+  },
+  {
+    "Code":"AMD",
+    "Country":"Armenia Dram"
+  },
+  {
+    "Code":"ANG",
+    "Country":"Netherlands Antilles Guilder"
+  },
+  {
+    "Code":"AOA",
+    "Country":"Angola Kwanza"
+  },
+  {
+    "Code":"ARS",
+    "Country":"Argentina Peso"
+  },
+  {
+    "Code":"AUD",
+    "Country":"Australia Dollar"
+  },
+  {
+    "Code":"AWG",
+    "Country":"Aruba Guilder"
+  },
+  {
+    "Code":"AZN",
+    "Country":"Azerbaijan New Manat"
+  },
+  {
+    "Code":"BAM",
+    "Country":"Bosnia and Herzegovina Convertible Marka"
+  },
+  {
+    "Code":"BBD",
+    "Country":"Barbados Dollar"
+  },
+  {
+    "Code":"BDT",
+    "Country":"Bangladesh Taka"
+  },
+  {
+    "Code":"BGN",
+    "Country":"Bulgaria Lev"
+  },
+  {
+    "Code":"BHD",
+    "Country":"Bahrain Dinar"
+  },
+  {
+    "Code":"BIF",
+    "Country":"Burundi Franc"
+  },
+  {
+    "Code":"BMD",
+    "Country":"Bermuda Dollar"
+  },
+  {
+    "Code":"BND",
+    "Country":"Brunei Darussalam Dollar"
+  },
+  {
+    "Code":"BOB",
+    "Country":"Bolivia Boliviano"
+  },
+  {
+    "Code":"BRL",
+    "Country":"Brazil Real"
+  },
+  {
+    "Code":"BSD",
+    "Country":"Bahamas Dollar"
+  },
+  {
+    "Code":"BTN",
+    "Country":"Bhutan Ngultrum"
+  },
+  {
+    "Code":"BWP",
+    "Country":"Botswana Pula"
+  },
+  {
+    "Code":"BYR",
+    "Country":"Belarus Ruble"
+  },
+  {
+    "Code":"BZD",
+    "Country":"Belize Dollar"
+  },
+  {
+    "Code":"CAD",
+    "Country":"Canada Dollar"
+  },
+  {
+    "Code":"CDF",
+    "Country":"Congo/Kinshasa Franc"
+  },
+  {
+    "Code":"CHF",
+    "Country":"Switzerland Franc"
+  },
+  {
+    "Code":"CLP",
+    "Country":"Chile Peso"
+  },
+  {
+    "Code":"CNY",
+    "Country":"China Yuan Renminbi"
+  },
+  {
+    "Code":"COP",
+    "Country":"Colombia Peso"
+  },
+  {
+    "Code":"CRC",
+    "Country":"Costa Rica Colon"
+  },
+  {
+    "Code":"CUC",
+    "Country":"Cuba Convertible Peso"
+  },
+  {
+    "Code":"CUP",
+    "Country":"Cuba Peso"
+  },
+  {
+    "Code":"CVE",
+    "Country":"Cape Verde Escudo"
+  },
+  {
+    "Code":"CZK",
+    "Country":"Czech Republic Koruna"
+  },
+  {
+    "Code":"DJF",
+    "Country":"Djibouti Franc"
+  },
+  {
+    "Code":"DKK",
+    "Country":"Denmark Krone"
+  },
+  {
+    "Code":"DOP",
+    "Country":"Dominican Republic Peso"
+  },
+  {
+    "Code":"DZD",
+    "Country":"Algeria Dinar"
+  },
+  {
+    "Code":"EGP",
+    "Country":"Egypt Pound"
+  },
+  {
+    "Code":"ERN",
+    "Country":"Eritrea Nakfa"
+  },
+  {
+    "Code":"ETB",
+    "Country":"Ethiopia Birr"
+  },
+  {
+    "Code":"EUR",
+    "Country":"Euro Member Countries"
+  },
+  {
+    "Code":"FJD",
+    "Country":"Fiji Dollar"
+  },
+  {
+    "Code":"FKP",
+    "Country":"Falkland Islands (Malvinas) Pound"
+  },
+  {
+    "Code":"GBP",
+    "Country":"United Kingdom Pound"
+  },
+  {
+    "Code":"GEL",
+    "Country":"Georgia Lari"
+  },
+  {
+    "Code":"GGP",
+    "Country":"Guernsey Pound"
+  },
+  {
+    "Code":"GHS",
+    "Country":"Ghana Cedi"
+  },
+  {
+    "Code":"GIP",
+    "Country":"Gibraltar Pound"
+  },
+  {
+    "Code":"GMD",
+    "Country":"Gambia Dalasi"
+  },
+  {
+    "Code":"GNF",
+    "Country":"Guinea Franc"
+  },
+  {
+    "Code":"GTQ",
+    "Country":"Guatemala Quetzal"
+  },
+  {
+    "Code":"GYD",
+    "Country":"Guyana Dollar"
+  },
+  {
+    "Code":"HKD",
+    "Country":"Hong Kong Dollar"
+  },
+  {
+    "Code":"HNL",
+    "Country":"Honduras Lempira"
+  },
+  {
+    "Code":"HRK",
+    "Country":"Croatia Kuna"
+  },
+  {
+    "Code":"HTG",
+    "Country":"Haiti Gourde"
+  },
+  {
+    "Code":"HUF",
+    "Country":"Hungary Forint"
+  },
+  {
+    "Code":"IDR",
+    "Country":"Indonesia Rupiah"
+  },
+  {
+    "Code":"ILS",
+    "Country":"Israel Shekel"
+  },
+  {
+    "Code":"IMP",
+    "Country":"Isle of Man Pound"
+  },
+  {
+    "Code":"INR",
+    "Country":"India Rupee"
+  },
+  {
+    "Code":"IQD",
+    "Country":"Iraq Dinar"
+  },
+  {
+    "Code":"IRR",
+    "Country":"Iran Rial"
+  },
+  {
+    "Code":"ISK",
+    "Country":"Iceland Krona"
+  },
+  {
+    "Code":"JEP",
+    "Country":"Jersey Pound"
+  },
+  {
+    "Code":"JMD",
+    "Country":"Jamaica Dollar"
+  },
+  {
+    "Code":"JOD",
+    "Country":"Jordan Dinar"
+  },
+  {
+    "Code":"JPY",
+    "Country":"Japan Yen"
+  },
+  {
+    "Code":"KES",
+    "Country":"Kenya Shilling"
+  },
+  {
+    "Code":"KGS",
+    "Country":"Kyrgyzstan Som"
+  },
+  {
+    "Code":"KHR",
+    "Country":"Cambodia Riel"
+  },
+  {
+    "Code":"KMF",
+    "Country":"Comoros Franc"
+  },
+  {
+    "Code":"KPW",
+    "Country":"Korea (North) Won"
+  },
+  {
+    "Code":"KRW",
+    "Country":"Korea (South) Won"
+  },
+  {
+    "Code":"KWD",
+    "Country":"Kuwait Dinar"
+  },
+  {
+    "Code":"KYD",
+    "Country":"Cayman Islands Dollar"
+  },
+  {
+    "Code":"KZT",
+    "Country":"Kazakhstan Tenge"
+  },
+  {
+    "Code":"LAK",
+    "Country":"Laos Kip"
+  },
+  {
+    "Code":"LBP",
+    "Country":"Lebanon Pound"
+  },
+  {
+    "Code":"LKR",
+    "Country":"Sri Lanka Rupee"
+  },
+  {
+    "Code":"LRD",
+    "Country":"Liberia Dollar"
+  },
+  {
+    "Code":"LSL",
+    "Country":"Lesotho Loti"
+  },
+  {
+    "Code":"LYD",
+    "Country":"Libya Dinar"
+  },
+  {
+    "Code":"MAD",
+    "Country":"Morocco Dirham"
+  },
+  {
+    "Code":"MDL",
+    "Country":"Moldova Leu"
+  },
+  {
+    "Code":"MGA",
+    "Country":"Madagascar Ariary"
+  },
+  {
+    "Code":"MKD",
+    "Country":"Macedonia Denar"
+  },
+  {
+    "Code":"MMK",
+    "Country":"Myanmar (Burma) Kyat"
+  },
+  {
+    "Code":"MNT",
+    "Country":"Mongolia Tughrik"
+  },
+  {
+    "Code":"MOP",
+    "Country":"Macau Pataca"
+  },
+  {
+    "Code":"MRO",
+    "Country":"Mauritania Ouguiya"
+  },
+  {
+    "Code":"MUR",
+    "Country":"Mauritius Rupee"
+  },
+  {
+    "Code":"MVR",
+    "Country":"Maldives (Maldive Islands) Rufiyaa"
+  },
+  {
+    "Code":"MWK",
+    "Country":"Malawi Kwacha"
+  },
+  {
+    "Code":"MXN",
+    "Country":"Mexico Peso"
+  },
+  {
+    "Code":"MYR",
+    "Country":"Malaysia Ringgit"
+  },
+  {
+    "Code":"MZN",
+    "Country":"Mozambique Metical"
+  },
+  {
+    "Code":"NAD",
+    "Country":"Namibia Dollar"
+  },
+  {
+    "Code":"NGN",
+    "Country":"Nigeria Naira"
+  },
+  {
+    "Code":"NIO",
+    "Country":"Nicaragua Cordoba"
+  },
+  {
+    "Code":"NOK",
+    "Country":"Norway Krone"
+  },
+  {
+    "Code":"NPR",
+    "Country":"Nepal Rupee"
+  },
+  {
+    "Code":"NZD",
+    "Country":"New Zealand Dollar"
+  },
+  {
+    "Code":"OMR",
+    "Country":"Oman Rial"
+  },
+  {
+    "Code":"PAB",
+    "Country":"Panama Balboa"
+  },
+  {
+    "Code":"PEN",
+    "Country":"Peru Nuevo Sol"
+  },
+  {
+    "Code":"PGK",
+    "Country":"Papua New Guinea Kina"
+  },
+  {
+    "Code":"PHP",
+    "Country":"Philippines Peso"
+  },
+  {
+    "Code":"PKR",
+    "Country":"Pakistan Rupee"
+  },
+  {
+    "Code":"PLN",
+    "Country":"Poland Zloty"
+  },
+  {
+    "Code":"PYG",
+    "Country":"Paraguay Guarani"
+  },
+  {
+    "Code":"QAR",
+    "Country":"Qatar Riyal"
+  },
+  {
+    "Code":"RON",
+    "Country":"Romania New Leu"
+  },
+  {
+    "Code":"RSD",
+    "Country":"Serbia Dinar"
+  },
+  {
+    "Code":"RUB",
+    "Country":"Russia Ruble"
+  },
+  {
+    "Code":"RWF",
+    "Country":"Rwanda Franc"
+  },
+  {
+    "Code":"SAR",
+    "Country":"Saudi Arabia Riyal"
+  },
+  {
+    "Code":"SBD",
+    "Country":"Solomon Islands Dollar"
+  },
+  {
+    "Code":"SCR",
+    "Country":"Seychelles Rupee"
+  },
+  {
+    "Code":"SDG",
+    "Country":"Sudan Pound"
+  },
+  {
+    "Code":"SEK",
+    "Country":"Sweden Krona"
+  },
+  {
+    "Code":"SGD",
+    "Country":"Singapore Dollar"
+  },
+  {
+    "Code":"SHP",
+    "Country":"Saint Helena Pound"
+  },
+  {
+    "Code":"SLL",
+    "Country":"Sierra Leone Leone"
+  },
+  {
+    "Code":"SOS",
+    "Country":"Somalia Shilling"
+  },
+  {
+    "Code":"SPL*",
+    "Country":"Seborga Luigino"
+  },
+  {
+    "Code":"SRD",
+    "Country":"Suriname Dollar"
+  },
+  {
+    "Code":"STD",
+    "Country":"São Tomé and Príncipe Dobra"
+  },
+  {
+    "Code":"SVC",
+    "Country":"El Salvador Colon"
+  },
+  {
+    "Code":"SYP",
+    "Country":"Syria Pound"
+  },
+  {
+    "Code":"SZL",
+    "Country":"Swaziland Lilangeni"
+  },
+  {
+    "Code":"THB",
+    "Country":"Thailand Baht"
+  },
+  {
+    "Code":"TJS",
+    "Country":"Tajikistan Somoni"
+  },
+  {
+    "Code":"TMT",
+    "Country":"Turkmenistan Manat"
+  },
+  {
+    "Code":"TND",
+    "Country":"Tunisia Dinar"
+  },
+  {
+    "Code":"TOP",
+    "Country":"Tonga Pa'anga"
+  },
+  {
+    "Code":"TRY",
+    "Country":"Turkey Lira"
+  },
+  {
+    "Code":"TTD",
+    "Country":"Trinidad and Tobago Dollar"
+  },
+  {
+    "Code":"TVD",
+    "Country":"Tuvalu Dollar"
+  },
+  {
+    "Code":"TWD",
+    "Country":"Taiwan New Dollar"
+  },
+  {
+    "Code":"TZS",
+    "Country":"Tanzania Shilling"
+  },
+  {
+    "Code":"UAH",
+    "Country":"Ukraine Hryvnia"
+  },
+  {
+    "Code":"UGX",
+    "Country":"Uganda Shilling"
+  },
+  {
+    "Code":"USD",
+    "Country":"United States Dollar"
+  },
+  {
+    "Code":"UYU",
+    "Country":"Uruguay Peso"
+  },
+  {
+    "Code":"UZS",
+    "Country":"Uzbekistan Som"
+  },
+  {
+    "Code":"VEF",
+    "Country":"Venezuela Bolivar"
+  },
+  {
+    "Code":"VND",
+    "Country":"Viet Nam Dong"
+  },
+  {
+    "Code":"VUV",
+    "Country":"Vanuatu Vatu"
+  },
+  {
+    "Code":"WST",
+    "Country":"Samoa Tala"
+  },
+  {
+    "Code":"XAF",
+    "Country":"Communauté Financière Africaine"
+  },
+  {
+    "Code":"XCD",
+    "Country":"East Caribbean Dollar"
+  },
+  {
+    "Code":"XDR",
+    "Country":"International Monetary Fund"
+  },
+  {
+    "Code":"XOF",
+    "Country":"Communauté Financière Africaine"
+  },
+  {
+    "Code":"XPF",
+    "Country":"Comptoirs Français du Pacifique"
+  },
+  {
+    "Code":"YER",
+    "Country":"Yemen Rial"
+  },
+  {
+    "Code":"ZAR",
+    "Country":"South Africa Rand"
+  },
+  {
+    "Code":"ZMW",
+    "Country":"Zambia Kwacha"
+  },
+  {
+    "Code":"ZWD",
+    "Country":"Zimbabwe Dollar"
+  }
+]
